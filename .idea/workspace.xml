@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6706c8-2bd9-4ca7-a85d-53bd16e66281" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hUSjet5eRMDKyGbvhVgQWaQged" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/nsqio/nsq/apps/nsqadmin">
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqadmin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqadmin/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqadmin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqadmin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqadmin/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqadmin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-lookupd-tcp-address=127.0.0.1:4160" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqd/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqd" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-lookupd-tcp-address=127.0.0.1:4160" />
+      <sudo value="true" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqd/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqd" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqlookupd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqlookupd/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqlookupd" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/apps/nsqlookupd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apps/nsqlookupd/main.go" />
+      <package value="github.com/nsqio/nsq/apps/nsqlookupd" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nsqio/nsq/bench/bench_channels" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/bench/bench_channels/bench_channels.go" />
+      <package value="github.com/nsqio/nsq/bench/bench_channels" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConfigFlagParsing in github.com/nsqio/nsq/apps/nsqd" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="nsq-1.2.0" />
+      <working_directory value="$PROJECT_DIR$/apps/nsqd" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/nsqio/nsq/apps/nsqd" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestConfigFlagParsing\E$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="36" width="560" height="644" key="#Build_Tags_&amp;_Vendoring" timestamp="1600317075534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="36" width="560" height="644" key="#Build_Tags_&amp;_Vendoring/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600317075534" />
+    <state x="483" y="227" key="#ESLint" timestamp="1600081767059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="483" y="227" key="#ESLint/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600081767059" />
+    <state x="433" y="174" key="#Go_Modules" timestamp="1600064328212">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="174" key="#Go_Modules/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600064328212" />
+    <state x="344" y="157" key="#Notifications" timestamp="1600865080643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="344" y="157" key="#Notifications/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600865080643" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600249254473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249254473" />
+    <state x="203" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600159838822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600159838822" />
+    <state x="421" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600101049465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600101049465" />
+    <state x="321" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600507437165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600507437165" />
+    <state width="816" height="438" key="DebuggerActiveHint" timestamp="1600249648223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="816" height="438" key="DebuggerActiveHint/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249648223" />
+    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1600243017436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600243017436" />
+    <state width="1233" height="250" key="GridCell.Tab.0.bottom" timestamp="1600316946355">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="250" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600316946355" />
+    <state width="1233" height="250" key="GridCell.Tab.0.center" timestamp="1600316946340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="250" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600316946340" />
+    <state width="1233" height="250" key="GridCell.Tab.0.left" timestamp="1600316946340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="250" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600316946340" />
+    <state width="1233" height="250" key="GridCell.Tab.0.right" timestamp="1600316946340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="250" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600316946340" />
+    <state width="1233" height="235" key="GridCell.Tab.1.bottom" timestamp="1600250138643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="235" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250138643" />
+    <state width="1233" height="235" key="GridCell.Tab.1.center" timestamp="1600250138643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="235" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250138643" />
+    <state width="1233" height="235" key="GridCell.Tab.1.left" timestamp="1600250138643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="235" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250138643" />
+    <state width="1233" height="235" key="GridCell.Tab.1.right" timestamp="1600250138643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1233" height="235" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250138643" />
+    <state width="240" height="178" key="GridCell.Tab.2.bottom" timestamp="1600249907604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.2.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907604" />
+    <state width="240" height="178" key="GridCell.Tab.2.center" timestamp="1600249907603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.2.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907603" />
+    <state width="240" height="178" key="GridCell.Tab.2.left" timestamp="1600250138643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.2.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250138643" />
+    <state width="240" height="178" key="GridCell.Tab.2.right" timestamp="1600249907603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.2.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907603" />
+    <state width="240" height="178" key="GridCell.Tab.3.bottom" timestamp="1600249907577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.3.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907577" />
+    <state width="240" height="178" key="GridCell.Tab.3.center" timestamp="1600249907577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.3.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907577" />
+    <state width="240" height="178" key="GridCell.Tab.3.left" timestamp="1600249907577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.3.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907577" />
+    <state width="240" height="178" key="GridCell.Tab.3.right" timestamp="1600249907577">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="240" height="178" key="GridCell.Tab.3.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249907577" />
+    <state x="172" y="0" key="SettingsEditor" timestamp="1600243100518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="172" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600243100518" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1600250130731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600250130731" />
+    <state x="0" y="497" width="254" height="245" key="dock-window-1" timestamp="1600249940730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="497" width="254" height="245" key="dock-window-1/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249940730" />
+    <state x="498" y="287" width="254" height="244" key="dock-window-2" timestamp="1600249940730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="498" y="287" width="254" height="244" key="dock-window-2/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600249940730" />
+    <state x="333" y="69" width="614" height="542" key="find.popup" timestamp="1600867100420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="69" width="614" height="542" key="find.popup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600867100420" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1600155342638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1600155342638" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>556</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>555</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>561</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>562</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>550</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>474</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/apps/nsqd/main.go</url>
+          <line>80</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqlookupd/http.go</url>
+          <line>152</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqlookupd/http.go</url>
+          <line>130</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>457</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>615</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqlookupd/lookup_protocol_v1.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqlookupd/tcp.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>916</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>829</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/http.go</url>
+          <line>347</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/nsqd.go</url>
+          <line>523</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/topic.go</url>
+          <line>348</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/http.go</url>
+          <line>188</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/http.go</url>
+          <line>194</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/http.go</url>
+          <line>225</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/topic.go</url>
+          <line>177</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>49</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/apps/nsqd/main.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/http.go</url>
+          <line>207</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/nsqd/protocol_v2.go</url>
+          <line>202</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
